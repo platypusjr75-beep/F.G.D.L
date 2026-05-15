@@ -15,9 +15,6 @@ Finished adding level thumbnails (:, and comtinued work on level pages
 
 -All of Jowowvin's completions(rubrub trilogy)
 
--Top players page
-
 -Historical placements
--Nerf Corridor must be placed.
 
 -more level pages
