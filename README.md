@@ -2,6 +2,9 @@ Just a little list for me and my friends to put our completions on. Spent way mo
 
 -UPDATES-
 
+may 17th, 2026:
+added the level submission page, not much else.
+
 may 14th, 2026:
 brought back site after it was taken down for around 18 hours. Added leaderboard page along with Nerfed Ashley Wave Trials as the fifty first level on the list
 
