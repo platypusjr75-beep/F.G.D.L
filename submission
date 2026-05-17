@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>FGDL Official Website</title>
+  <style>
+    body {
+      background-color: #9C4B02;
+      color: white;
+      font-family: Arial;
+      margin: 0;
+    }
+
+    header {
+      background: #874000;
+      padding: 20px;
+      text-align: center;
+      font-size: 28px;
+      font-weight: bold;
+    }
+
+    .container {
+      width: 80%;
+      margin: auto;
+      padding: 20px;
+    }
+
+    .button {
+      background: #874000;
+      padding: 12px;
+      margin: 8px 0;
+      border-radius: 8px;
+      display: flex;
+      justify-content: space-between;
+      text-align: center;
+    }
+
+    .rank {
+      font-weight: bold;
+      text-align: center;
+    }
+    
+    .SuperRank {
+      font-weight: bold;
+      font-size: 38px;
+      text-align: center;
+    }
+    
+  .thumb {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  </style>
+</head>
+
+<body>
+
+<header>Submission form:</header>
+
+<div class="container">
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdizeTYjiONQ9l46EIWqnEJHtDK0uZLpJDsQaNwtEJP5MJ_Vg/viewform?embedded=true" 
+  width="640" 
+  height="1284" 
+  frameborder="0" 
+  marginheight="0" 
+  marginwidth="0">
+  Loading…</iframe>
+ </div>
+</body>
+</html>
