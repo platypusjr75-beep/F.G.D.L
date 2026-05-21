@@ -2,6 +2,10 @@ Just a little list for me and my friends to put our completions on. Spent way mo
 
 -UPDATES-
 
+may 21st 2026:
+
+just some small bug fixes
+
 may 17th, 2026:
 added the level submission page, not much else.
 
