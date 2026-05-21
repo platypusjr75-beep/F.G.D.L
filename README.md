@@ -18,10 +18,6 @@ Finished adding level thumbnails (:, and comtinued work on level pages
 
 -Stuff 2 add- 
 
--all of O.T.'s completions(ISpy)
-
--All of Jowowvin's completions(rubrub trilogy)
-
 -Historical placements
 
 -more level pages
